@@ -87,6 +87,8 @@ This script is provided as-is and may require modifications to suit specific sys
 If you are interested in this project you can do any small contibution to this project.
 
 
+
+
 ## 2nd Project
 # CROPER: Your Agricultural Advice Chatbot
 
