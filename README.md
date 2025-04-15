@@ -1,4 +1,4 @@
-# Python-project2
+# Python-projects-this repo has small python projects that i did in my college days
 # System Resource Monitor
 
 This Python script provides a tool for monitoring system resource utilization (CPU, memory, and disk) and generating real-time visualizations and email alerts. It's designed to help users track system performance, identify potential bottlenecks, and receive notifications when resource usage exceeds predefined thresholds.
