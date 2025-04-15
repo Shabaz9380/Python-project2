@@ -1,5 +1,5 @@
 # Python-projects-this repo has small python projects that i did in my college days
-##1st Project
+## 1st Project
 # System Resource Monitor
 
 This Python script provides a tool for monitoring system resource utilization (CPU, memory, and disk) and generating real-time visualizations and email alerts. It's designed to help users track system performance, identify potential bottlenecks, and receive notifications when resource usage exceeds predefined thresholds.
@@ -87,7 +87,7 @@ This script is provided as-is and may require modifications to suit specific sys
 If you are interested in this project you can do any small contibution to this project.
 
 
-##2nd Project
+## 2nd Project
 # CROPER: Your Agricultural Advice Chatbot
 
 ## Overview
